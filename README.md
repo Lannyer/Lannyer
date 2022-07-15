@@ -2,26 +2,9 @@
 
 ### Nossa democracia foi hackeada!
 
-
-## Sobre mim
-
-Olar, eu sou o Lanny. Cozinheiro e dev antifa! Estou retomando minha carreira como dev com o intuito de unir os conhecimentos da T.I com a T.C.C (Terapia Cognitivo Comportamental) com o objetivo de trabalhar com o desenvolvimento de línguagem, principalmente em crianças TEA.
-
-#ForaBolsonaro #BozoGenocida
-
 <br>
 
-- 🔭 Atualmente estou trabalhando em: minha saúde mental.
-- 🌱 Estou aprendendo: tudo de novo desde o começo.
-- 🤔 Procuro ajuda com: minha cabeça bipolar.
-- ⏳  Timeline:
-    - Front-end 
-    - Back-end
-    - Fullstack
-    - Design UX/UI
-    - Psicologia (TCC)
-
----
+## Look on my Works, ye Mighty, and despair!
 
 <br>
 
@@ -54,3 +37,12 @@ Olar, eu sou o Lanny. Cozinheiro e dev antifa! Estou retomando minha carreira co
   ![Snake animation](https://github.com/lannyer/lannyer/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+---
+
+## Sobre mim
+
+Olar, eu sou o Lanny. Cozinheiro e dev antifa! Estou retomando minha carreira como dev com o intuito de unir os conhecimentos da T.I com a T.C.C (Terapia Cognitivo Comportamental) com o objetivo de trabalhar com o desenvolvimento de línguagem, principalmente em crianças TEA.
+
+### #ForaBolsonaro #BolsonaroGenocida
+
