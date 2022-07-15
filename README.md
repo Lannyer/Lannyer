@@ -2,19 +2,18 @@
 
 ### Nossa democracia foi hackeada!
 
-<br>
 
 ## Sobre mim
 
-Cozinheiro e dev antifa. O Ursinho Carinhoso do Mundo Invertido. O Anão Gigante. Um Paquiderme Social. Corja Rebelde. #ForaBolsonaro #BozoGenocida
+Olar, eu sou o Lanny. Cozinheiro e dev antifa! Estou retomando minha carreira como dev com o intuito de unir os conhecimentos da T.I com a T.C.C (Terapia Cognitivo Comportamental) com o objetivo de trabalhar com o desenvolvimento de línguagem, principalmente em crianças TEA.
 
-Olar, eu sou o Lanny! Estou retomando minha carreira como dev com o intuito de unir os conhecimentos da T.I com a psicologia com a intenção de trabalhar com o desenvolvimento de linguagem, principalmente em crianças TEA.
+#ForaBolsonaro #BozoGenocida
 
 <br>
 
-- 🔭 I’m currently working on: my mental health.
-- 🌱 I’m currently learning: everything from the top.
-- 🤔 I’m looking for help with: my freaking mind.
+- 🔭 Atualmente estou trabalhando em: minha saúde mental.
+- 🌱 Estou aprendendo: tudo de novo desde o começo.
+- 🤔 Procuro ajuda com: minha cabeça bipolar.
 - ⏳  Timeline:
     - Front-end 
     - Back-end
