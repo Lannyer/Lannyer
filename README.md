@@ -1,13 +1,34 @@
 # Hello friend.
 
+<br>
+
+## Nossa democracia foi hackeada!
+
+---
+
+## Sobre mim
+
+Cozinheiro e dev antifa. O Ursinho Carinhoso do Mundo Invertido. O Anão Gigante. Um Paquiderme Social. Corja Rebelde. #ForaBolsonaro #BozoGenocida
+
+Olar, eu sou o Lanny! Estou retomando minha carreira como dev com o intuito de unir os conhecimentos da T.I com a psicologia com a intenção de trabalhar com o desenvolvimento de linguagem, principalmente em crianças TEA.
+
+<br>
+
 - 🔭 I’m currently working on: my mental health.
 - 🌱 I’m currently learning: everything from the top.
 - 🤔 I’m looking for help with: my freaking mind.
+- ⏳  Timeline:
+    - Front-end 
+    - Back-end
+    - Fullstack
+    - Design UX/UI
+    - Psicologia (TCC)
 
+<br>
 
-<div align="center">
+<div align="center"">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lannyer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-     <a href="https://codepen.io/lannyer"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyer&layout=compact&langs_count=7&theme=github_dark"/>  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyer&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,6 +50,7 @@
   <a href="https://www.twitter.com/lannyer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@lannyer" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
  
+ <br>
  
   ![Snake animation](https://github.com/lannyer/lannyer/blob/output/github-contribution-grid-snake.svg)
  
