@@ -1,10 +1,8 @@
 # Hello friend.
 
+### Nossa democracia foi hackeada!
+
 <br>
-
-## Nossa democracia foi hackeada!
-
----
 
 ## Sobre mim
 
@@ -23,6 +21,8 @@ Olar, eu sou o Lanny! Estou retomando minha carreira como dev com o intuito de u
     - Fullstack
     - Design UX/UI
     - Psicologia (TCC)
+
+---
 
 <br>
 
