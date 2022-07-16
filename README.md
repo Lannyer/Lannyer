@@ -1,16 +1,14 @@
-# Hello friend.
+# HELLO, FRIEND.
 
-### Nossa democracia foi hackeada!
-
-<br>
-
-## Look on my Works, ye Mighty, and despair!
+### Our democracy has been hacked!
 
 <br>
+
+## LOOK ON MY WORK, YE MIGTH, AND DESPAIR!
 
 <div align="center"">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lannyer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyer&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lannyer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lannyer&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -40,9 +38,16 @@
 
 ---
 
-## Sobre mim
+## SOBRE O DEV
 
-Olar, eu sou o Lanny. Cozinheiro e dev antifa! Estou retomando minha carreira como dev com o intuito de unir os conhecimentos da T.I com a T.C.C (Terapia Cognitivo Comportamental) com o objetivo de trabalhar com o desenvolvimento de línguagem, principalmente em crianças TEA.
+Me chamo Lannyer, mais conhecido como Lanny. Sou ozinheiro e dev... ou algo assim! Nada mais que um nerd, à moda não-tão-antiga, fã de tecnologia e cultura pop, picado por um certo mosquitinho vermelho e com alguns transtornos mentais na mochila.
+
+Comecei minha jornada no desenvolvimento web, por volta de 2011, depois de trabalhar como menor aprendiz no setor de tecnologia da Caixa Econômica Federal. Iniciei meus estudos em uma agência de publicidade, na região metropolitana de BH. Depois de um período trabalhando em uma pequena agência como _front-end_ e ter iniciado o tecnólogo em Sistemas para Internet, na UNIBH, decidi sair do mercado de T.I interrompendo, também, o tecnólogo por descontentamento e questões de saúde mental. Decidi então focar em uma das minhas paixões, cozinhar.
+
+Depois de idas e vindas no mercado da gastronomia e um hiato, também, por questões de saúde mental, decidi voltar para o desenvolvimento web, com o intuito de juntar a T.I com a psicologia e atuar no desenvolvimento das linguagens em crianças dentro do espectro autista, depois de escutar um episódio do Nerdcast, ["Cientistas em empresas de tecnologia"](https://jovemnerd.com.br/nerdcast/cientistas-em-empresas-de-tecnologia/), com os gigantes Caio Gomes e André Souza, onde debatiam a presença de profissionais de áreas distintas à tecnologia atuando, de forma fundamental, dentro dos processos tecnológicos.
+
+O objetivo agora, é finalizar os projetos da imersão e aprimorá-los apenas com os conteúdos ensinados nas aulas e buscando inspiração em projetos de outros alunos.
+
 
 ### #ForaBolsonaro #BolsonaroGenocida
 
