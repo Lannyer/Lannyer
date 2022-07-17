@@ -24,19 +24,14 @@
 ##
 
 <div> 
-  <a href="https://https://codepen.io/lannyer" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lannyer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/lannyer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/lannyer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@lannyer" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
- 
- <br>
- 
+  
   ![Snake animation](https://github.com/lannyer/lannyer/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
 ---
+
+<br>
 
 ## SOBRE O DEV
 
@@ -48,6 +43,19 @@ Depois de idas e vindas no mercado da gastronomia e um hiato, também, por quest
 
 O objetivo agora, é finalizar os projetos da imersão e aprimorá-los apenas com os conteúdos ensinados nas aulas e buscando inspiração em projetos de outros alunos.
 
+<br>
+
+<div>
+
+  <a href="https://https://codepen.io/lannyer" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lannyer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/lannyer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/lannyer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@lannyer" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+
+</div>
+
+<br>
 
 ### #ForaBolsonaro #BolsonaroGenocida
 
