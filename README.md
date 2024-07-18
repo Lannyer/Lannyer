@@ -49,5 +49,5 @@ EU NÃO FAÇO IDÉIA DO QUE EU TÔ FAZENDO!
 
 <br>
 
-### #FreePalestina
+### #FreePalestina🇵🇸
 
