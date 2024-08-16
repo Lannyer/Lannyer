@@ -18,7 +18,7 @@
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Lannyer&show_icons=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lannyer&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lannyer&show_icons=true" />
 </picture>
 </div>
 </div>
