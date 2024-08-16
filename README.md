@@ -1,4 +1,4 @@
-# HELLO, FRIEND.
+# Hello, Friend.
 
 ### Our democracy has been hacked!
 
